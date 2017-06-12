@@ -1,0 +1,13 @@
+.blue {	
+	background: #0000ff; /*колір заливки*/	
+}
+
+.yellow {
+	background: #ffff00; /*колір заливки*/
+	margin-bottom: 30px; /*відступ*/
+}
+
+.blue, .yellow{
+	width: 300px; /*ширина*/
+	height: 50px; /*висота*/
+}
